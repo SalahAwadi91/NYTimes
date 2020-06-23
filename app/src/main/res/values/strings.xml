@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYTimes</string>
+    <string name="retry">Retry</string>
+    <string name="noInternet">Check your internet connection</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+    <string name="okey">OK</string>
+    <string name="errorTitle">Error</string>
+    <string name="NoData">No data found, please try again later</string>
+</resources>
